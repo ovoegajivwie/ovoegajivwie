@@ -13,8 +13,8 @@ namespace MyFirstTest
         	Console.WriteLine("Basic Arithmetic Program");
         	Console.WriteLine("Input two numbers starting from 1 ");
 			Console.WriteLine("Input two numbers:");
-			int A = Convert.ToInt16(Console.ReadLine());
-			int B = Convert.ToInt16(Console.ReadLine());
+			int A = Convert.ToInt32(Console.ReadLine());
+			int B = Convert.ToInt32(Console.ReadLine());
 			Console.WriteLine("Sum:" + (A+B));
 			Console.WriteLine("Difference:" + (A-B));
 			Console.WriteLine("Divide or quotient:" + (A/B));
