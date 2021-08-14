@@ -3,10 +3,10 @@ using System.IO;
 using System.Linq;
 using System.Collections.Generic;
 
-namespace MyFirstTest
+namespace Code1
 {
 
-    public class Test 
+    public class Code1 
     {
         public static void Main()
         {
